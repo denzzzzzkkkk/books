@@ -1,0 +1,19 @@
+.books-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.book-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+}
+
+.book-item h2 {
+    margin-bottom: 10px;
+}
+
+.book-item p {
+    margin: 5px 0;
+}
