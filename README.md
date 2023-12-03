@@ -1,2 +1,2 @@
-*books*
+PLUGIN NANE: books<br>
 DESCRIPTION:This is  a plugin which is used for the list of all books.it contain details of all book title,date of publish,author.
